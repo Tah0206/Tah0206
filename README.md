@@ -143,13 +143,15 @@ https://github.com/Tah0206/TestQuanLyKhachSan
 
 # GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tah0206&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Tah0206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tah0206&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tah0206&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</p>
+</div>
+
+</br>
 
 <p align="center">
 
