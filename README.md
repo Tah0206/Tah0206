@@ -32,7 +32,7 @@ Currently, I'm learning modern software architecture, cloud technologies, automa
 
 🎓 Major: Information Technology
 
-📚 Current Status: Third-year Student
+📚 Current Status: Final-year Student
 
 ---
 
